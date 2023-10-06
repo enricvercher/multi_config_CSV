@@ -1,0 +1,7 @@
+id,name,read,pattern,sequence,feature_type
+Hashtag1_Antibody,mouse_44,R2,5PNNNNNNNNNN(BC),ACCCACCAGTAAGAC,Antibody capture 
+Hashtag2_Antibody,mouse_45,R2,5PNNNNNNNNNN(BC),GGTCGAGAGCATTCA,Antibody capture
+Hashtag3_Antibody,mouse_50,R2,5PNNNNNNNNNN(BC),CTTGCCGCATGTCAT,Antibody capture
+Hashtag4_Antibody,mouse_52,R2,5PNNNNNNNNNN(BC),AAAGCATTCTTCACG,Antibody capture 
+Hashtag5_Antibody,mouse_48,R2,5PNNNNNNNNNN(BC),CTTTGTCTTTGTGAG,Antibody capture 
+Hashtag6_Antibody,mouse_49,R2,5PNNNNNNNNNN(BC),TATGCTGCCACGGTA,Antibody capture  
